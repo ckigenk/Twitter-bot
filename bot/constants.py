@@ -1,0 +1,5 @@
+PATH = r""
+URL="https://twitter.com/i/flow/login"
+USERNAME=""
+PASSWORD=""
+SEARCH_TERM=""
