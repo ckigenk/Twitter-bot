@@ -1,4 +1,4 @@
-PATH = r""
+PATH = r"C:/SeleniumDrivers/chromedriver.exe"
 URL="https://twitter.com/i/flow/login"
 USERNAME=""
 PASSWORD=""
